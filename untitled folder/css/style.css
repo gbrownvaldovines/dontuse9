@@ -1,0 +1,47 @@
+body {
+    font-size: 16px;
+    line-height: 1.6;
+    font-weight: 400;
+    font-family: Helvetica, sans-serif;
+    color: #333;
+    margin-top: 100px;
+}
+img {
+    max-width: 100%;
+}
+
+.home {
+    background: linear-gradient(180deg, #00C5FF 0%, #B4C873 100%) no-repeat;
+    color: #FFF;
+    height: 100vh;
+    margin: 0;
+}
+.home .container {
+    padding-top: 40vh;
+    text-align: center;
+}
+.home p {
+    margin-bottom: 0;
+}
+.home h1 {margin-top: 0;
+
+}
+
+.home a{
+    border: none;
+    background-color: antiquewhite
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  
+}
+
+<script src="./script.js"></script>
+
+</body>
+</html>
